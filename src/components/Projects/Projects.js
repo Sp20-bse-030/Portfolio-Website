@@ -1,11 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
+
 import portfolio from "../../Assets/Projects/Portfolio.png";
 import Table from "../../Assets/Projects/Table.png";
-import suicide from "../../Assets/Projects/suicide.png";
+
 import Ecommerce from "../../Assets/Projects/Ecommerce.png";
 
 function Projects() {
